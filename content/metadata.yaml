@@ -1,30 +1,33 @@
----
-title: "Manuscript Title"
-date: null  # Defaults to date generated, but can specify like '2022-10-31'.
-keywords:
-  - markdown
-  - publishing
-  - manubot
-lang: en-US
+title: >-
+  Prognostisches Potenzial von CD44 als Tumorstammzellmarker für die kombinierte Radiochemotherapie des lokal fortgeschrittenen Kopf-Hals-Plattenepithelkarzinoms
+
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+  - github: dr-juetz-arzt
+    name: Dr. med. Martin Jütz
+    initials: MJ
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
-    corresponding: true
+      - dresden
+    orcid: 0000-0002-1234-5678
+    email: mjuetz@me.com
+
+affiliations:
+  dresden:
+    name: Klinik für Strahlentherapie, Technische Universität Dresden
+    address: Fetscherstraße 74, 01307 Dresden, Deutschland
+
+date: 2025-04-04
+lang: de
+keywords:
+  - Kopf-Hals-Plattenepithelkarzinom
+  - Tumorstammzellen
+  - CD44
+  - Radiochemotherapie
+  - Prognosefaktoren
+  - Biomarker
+
+manuscript_url: https://github.com/dr-juetz-arzt/Diss_Temp
+doi: 10.5281/zenodo.1234567
+license: CC-BY-4.0
+
+venue: Dissertation an der Medizinischen Fakultät der Technischen Universität Dresden
+version: 1.0.01
